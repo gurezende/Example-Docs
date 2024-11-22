@@ -1,0 +1,9 @@
+site_name: Example Data Project 
+nav:
+  - Home: index.md
+  - About: about.md
+
+repo_name: "Example-Docs"
+repo_url: "https://github.com/gurezende/Example-Docs.git"
+
+theme: readthedocs
